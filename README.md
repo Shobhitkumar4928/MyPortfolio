@@ -1,0 +1,1 @@
+This website is a personal portfolio website which gives others my contact info and details about my projects.
